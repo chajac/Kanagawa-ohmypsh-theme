@@ -4,7 +4,7 @@ A Oh My Posh theme inspired by the Kanagawa color palette, featuring warm, muted
 
 ## Preview
 
-![Kanagawa Theme Preview](screenshots/kanagawa-preview.png)
+![Kanagawa Theme Preview](https://github.com/user-attachments/assets/2acfc3d5-e1fe-4bb1-815c-76168ab2fd9f)
 
 ## Features
 
